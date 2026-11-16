@@ -1,0 +1,9 @@
+.env
+.env.*
+.aws/
+*.hyper
+*.csv
+*.parquet
+.DS_Store
+for_me_only/
+
